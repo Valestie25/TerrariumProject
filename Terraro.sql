@@ -8,8 +8,7 @@ CREATE TABLE Terrarium (
     );
 
 INSERT INTO Terrarium(Id_Terrarium, Terrarium_num, Num_Iguanas)
-values (1, 1, 5);
-
+values (1, 1, 5); 
 
 SELECT * FROM Terrarium;
 DROP TABLE Terrarium;
